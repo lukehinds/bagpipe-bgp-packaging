@@ -30,6 +30,7 @@ Requires:       python-pbr >= 1.6
 Requires:       python-bottle
 Requires:       python-daemon
 Requires:       python-netaddr >= 0.7.7
+Requires:       python-networking-bagpipe
 Requires:       python-twisted >= 13.2
 Requires:       python-setuptools
 
